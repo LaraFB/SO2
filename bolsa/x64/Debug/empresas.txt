@@ -1,0 +1,12 @@
+metromondego 1000 0.01
+spaceY 200 500
+TechWorks 5000 10.00
+BioPharm 10000 15.00
+EnergyTech 3000 25.50
+GreenGrowth 800 50.00
+Oceani 2000 8.30
+CyberDyne 7000 18.50
+AeroNova 2500 32.75
+MediCare 6000 12.80
+GLI 400 75.25
+FutureGen 1500 28.00
